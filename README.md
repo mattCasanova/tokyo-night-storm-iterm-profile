@@ -1,6 +1,6 @@
 # MattNova Tokyo Night Storm iTerm2 Profile
 
-My personalized take on **Tokyo Night Storm** — a moody, deep-dark theme with hand-tweaked colors for better contrast and legibility during long coding sessions. Includes transparency + blur for that immersive rainy-night-in-Seattle feel, profile-specific hotkeys, Source Code Pro font setup (with Nerd Font upgrade path for icons), and more.
+My personalized take on **Tokyo Night Storm** — a moody, deep-dark theme with hand-tweaked colors for better contrast and legibility during long coding sessions. Includes transparency + blur for that immersive rainy-night feel, profile-specific hotkeys, Source Code Pro font setup (with Nerd Font upgrade path for icons), and more.
 
 Inspired by the classic Tokyo Night ecosystem (VS Code / Neovim ports), but everything adjusted to fit my workflow in PHP/Laravel, JS/Vite, and general dev stuff.
 
@@ -8,9 +8,11 @@ Inspired by the classic Tokyo Night ecosystem (VS Code / Neovim ports), but ever
 
 ![My iTerm2 Setup](screenshot1.png)
 
-*(Upload your terminal screenshot here — e.g., with `ls`, git status, some code output, showing the colors, transparency, prompt icons, etc. Drag-drop into GitHub or add via "Add file".)*
+![Another screenshot](screenshot2.png)
 
 Moody cyberpunk/neon-city energy with subtle purples, cyans, and deep blues — perfect for late-night hacking while it pours outside 🌧️.
+
+The terminal is slighly blurred and semi-transparent, so you can see your desktop wallpaper faintly behind it (I use a rainy Korean cityscape). The colors are tweaked for better contrast and readability, especially for syntax highlighting in code.
 
 ## Installation
 

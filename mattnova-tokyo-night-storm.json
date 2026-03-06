@@ -409,7 +409,7 @@
     "Alpha Component" : 1,
     "Green Component" : 0.81176470588235294
   },
-  "Transparency" : 0.040000000000000001,
+  "Transparency" : 0,
   "Faint Text Alpha" : 0.49894345238095239,
   "Background Color" : {
     "Red Component" : 0.14117647058823529,
